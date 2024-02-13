@@ -1,10 +1,10 @@
 <a name="readme-top"></a>
 
-[![Contributors][contributors-shield]]
-[![Forks][forks-shield]]
-[![Stargazers][stars-shield]]
-[![Issues][issues-shield]]
-[![MIT License][license-shield]]
+[![Contributors][contributors-shield]][s]
+[![Forks][forks-shield]][s]
+[![Stargazers][stars-shield]][s]
+[![Issues][issues-shield]][s]
+[![MIT License][license-shield]][s]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
