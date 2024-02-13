@@ -29,7 +29,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-cretech.id">About The Project</a>
+      <a href="#about-the-project">About The Cretech.id</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -241,7 +241,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [Angular-url]: https://angular.io/
 [Ci]: https://img.shields.io/badge/Codeigniter-de4e1b?style=for-the-badge&logoColor=white
 [Ci-url]: https://www.codeigniter.com/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
+[Laravel]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
 [Laravel-url]: https://laravel.com
 [Flask]: https://img.shields.io/badge/Flask-000000?style=for-the-badge&logoColor=white
 [Flask-url]: https://flask.palletsprojects.com/
