@@ -94,9 +94,7 @@ Following are the programming languages and frameworks that we are competent in 
 
 <p align="">CSS Framework</p>
 
-- [![Tailwind][Tailwind]][Tailwind-url]
-- [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-- [![JQuery][JQuery.com]][JQuery-url]
+- [![Tailwind][Tailwind]][Tailwind-url] [![Bootstrap][Bootstrap.com]][Bootstrap-url] [![JQuery][JQuery.com]][JQuery-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
