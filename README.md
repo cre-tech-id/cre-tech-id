@@ -21,12 +21,8 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-      <a href="#about-cretech">About Cretech.id</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
+    <li><a href="#about-cretech">About Cretech.id</a></li>
+    <li><a href="#built-with">Built With</a></li>
     <li><a href="#vision">Vision</a></li>
     <li><a href="#mission">Mission</a></li>
     <li><a href="#contact">Contact</a></li>
