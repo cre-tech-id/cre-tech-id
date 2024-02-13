@@ -1,10 +1,10 @@
 <a name="readme-top"></a>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![Contributors][contributors-shield]][]
+[![Forks][forks-shield]][]
+[![Stargazers][stars-shield]][]
+[![Issues][issues-shield]][]
+[![MIT License][license-shield]][]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
@@ -29,30 +29,22 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-cretech.id">About Cretech.id</a>
+      <a href="#about-cretech">About Cretech.id</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#vision">Vision</a></li>
+    <li><a href="#mission">Mission</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
 <!-- ABOUT THE PROJECT -->
 
-## About Cretch.id
+## About Cretch
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
@@ -100,10 +92,21 @@ Following are the programming languages and frameworks that we are competent in 
 
 <!-- GETTING STARTED -->
 
-## Getting Started
+## Vision
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Our vision at Cretech.id is to be the trusted partner that empowers clients to achieve their business goals through innovative technology solutions.
+
+## Mission
+
+1. Understanding client needs: We listen to our clients to understand their unique needs and challenges, helping them devise tailored strategies for growth.
+
+2. Providing customized tech solutions: We offer personalized technology solutions to address specific client requirements, whether it's developing mobile apps or enhancing web platforms.
+
+3. Prioritizing user experience: We focus on delivering user-friendly solutions that enhance customer engagement and satisfaction.
+
+4. Supporting long-term success: We provide ongoing support and updates to ensure our clients stay competitive and thrive in today's dynamic business landscape.
+
+Together, we're committed to helping our clients succeed with simple and effective technology solutions at Cretech.id.
 
 ## Contributing
 
@@ -139,26 +142,6 @@ WhatsApp : [+62-851-7690-6996](https://wa.me/6285176906996)
 Linkedin : [Cretech-id](https://www.linkedin.com/company/cretech-id)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGMENTS -->
-
-## Acknowledgments
-
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
-- [Choose an Open Source License](https://choosealicense.com)
-- [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-- [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-- [Malven's Grid Cheatsheet](https://grid.malven.co/)
-- [Img Shields](https://shields.io)
-- [GitHub Pages](https://pages.github.com)
-- [Font Awesome](https://fontawesome.com)
-- [React Icons](https://react-icons.github.io/react-icons/search)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/graphs/contributors
