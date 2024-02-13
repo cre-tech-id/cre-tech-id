@@ -29,8 +29,6 @@
     </li>
     <li><a href="#vision">Vision</a></li>
     <li><a href="#mission">Mission</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -38,8 +36,6 @@
 <!-- ABOUT THE PROJECT -->
 
 ## About Cretch
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 Cretech.id is a prominent company specializing in providing innovative and high-quality software solutions, with a primary focus on developing captivating mobile and web applications. We understand the importance of the right technology in advancing your business, which is why we are committed to delivering services that not only meet but also exceed your expectations.
 
@@ -100,31 +96,6 @@ Our vision at Cretech.id is to be the trusted partner that empowers clients to a
 4. Supporting long-term success: We provide ongoing support and updates to ensure our clients stay competitive and thrive in today's dynamic business landscape.
 
 Together, we're committed to helping our clients succeed with simple and effective technology solutions at Cretech.id.
-
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
-
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTACT -->
 
 ## Contact
 
