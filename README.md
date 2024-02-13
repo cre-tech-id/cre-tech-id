@@ -72,25 +72,27 @@ With an approach focused on quality, reliability, and innovation, Cretech.id is 
 
 Following are the programming languages and frameworks that we are competent in creating software
 
-<p align="center">Language</p>
+<p align="">Language</p>
 
 - [![PHP][PHP]][PHP-url] [![Java][Java]][Java-url] [![Kotlin][Kotlin]][Kotlin-url] [![JavaScript][JavaScript]][Js-url] [![Python][Python]][Python-url]
 
-<p align="center">Framework JavaScript</p>
+<p align="">Framework JavaScript</p>
 
 - [![React][React.js]][React-url] [![Vue][Vue.js]][Vue-url] [![Angular][Angular.io]][Angular-url]
 
-<p align="center">Mobile Apps</p>
+<p align="">Mobile Apps</p>
 
 - [![React Native][React.js]][React-url] [![Flutter][Flutter]][Flutter-url] [![Java][Java]][Java-url] [![Kotlin][Kotlin]][Kotlin-url]
 
-<p align="center">PHP Framework</p>
+<p align="">PHP Framework</p>
 
 - [![CodeIgniter][Ci]][Ci-url] [![Laravel][Laravel]][Laravel-url]
 
-<p align="center">Python Framework</p>
+<p align="">Python Framework</p>
 
 - [![Flask][Flask]][Flask-url] [![Django][Django]][Django-url]
+
+<p align="">CSS Framework</p>
 
 - [![Tailwind][Tailwind]][Tailwind-url]
 - [![Bootstrap][Bootstrap.com]][Bootstrap-url]
