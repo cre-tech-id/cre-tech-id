@@ -3,16 +3,15 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="">
     <img src="img/1.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Cretech.id</h3>
+    <br />
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    Driving Your Business Forward With Technology.
     <br />
   </p>
 </div>
