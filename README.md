@@ -1,23 +1,4 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/pull/73 -->
-
 <a name="readme-top"></a>
-
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -30,7 +11,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="img/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
@@ -77,21 +58,19 @@
 
 <!-- ABOUT THE PROJECT -->
 
-## About The Project
+## About The Cretch-id
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Cretech.id is a prominent company specializing in providing innovative and high-quality software solutions, with a primary focus on developing captivating mobile and web applications. We understand the importance of the right technology in advancing your business, which is why we are committed to delivering services that not only meet but also exceed your expectations.
 
-Here's why:
+In terms of mobile application development, Cretech.id has built a strong reputation for creating responsive, intuitive, and visually stunning applications. Our team possesses deep expertise in using various programming languages such as Java, Kotlin, React Native, and Flutter. With a focus on delivering superior user experiences, we ensure that every application we develop not only perfectly reflects your brand identity but also provides practical and effective solutions for end-users.
 
-- Your time should be focused on creating something amazing. A project that solves a problem and helps others
-- You shouldn't be doing the same tasks over and over like creating a README from scratch
-- You should implement DRY principles to the rest of your life :smile:
+Not limited to mobile application development, Cretech.id also has extensive expertise in developing amazing web applications. By utilizing various programming languages such as PHP, JavaScript, and Python, as well as leading frameworks such as CodeIgniter 3, CodeIgniter 4, Laravel, React JS, Flask, and Django, we are able to deliver innovative web solutions tailored to your business needs. From stunning design to sophisticated functionality, we pay attention to every detail to ensure that your web application not only captivates the eyes but also adds significant value to your business.
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+Of course, we also understand the importance of efficient data management in the success of your application. With deep expertise in various database systems including MySQL, PostgreSQL, SQLite, Oracle, and MongoDB, Cretech.id is ready to assist you in managing and leveraging data most effectively. From storage to analysis, we provide robust and measurable solutions to support your business growth.
 
-Use the `BLANK_README.md` to get started.
+With an approach focused on quality, reliability, and innovation, Cretech.id is not just a technology service provider but also a trusted strategic partner. We promise to deliver solutions that not only address your current challenges but also help you achieve long-term success. Together with Cretech.id, let's realize your business vision and goals with the right and innovative information technology.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -99,7 +78,7 @@ Use the `BLANK_README.md` to get started.
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-- [![Next][Next.js]][Next-url]
+- [![PHP][PHP]][Next-url]
 - [![React][React.js]][React-url]
 - [![Vue][Vue.js]][Vue-url]
 - [![Angular][Angular.io]][Angular-url]
@@ -201,9 +180,11 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Email : cretech.id@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+WhatsApp : [+62-851-7690-6996](https://wa.me/6285176906996)
+
+Linkedin : [Cretech-id](https://www.linkedin.com/company/cretech-id)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -238,7 +219,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: https://www.linkedin.com/company/cretech-id
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
