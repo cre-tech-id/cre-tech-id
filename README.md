@@ -98,21 +98,16 @@ Email : cretech.id@gmail.com
 
 WhatsApp : [+62-851-7690-6996](https://wa.me/6285176906996)
 
+Instagram : [Cretechid](https://www.instagram.com/cretechid/)
+
+Tiktok : [Cretech.id](https://www.tiktok.com/@cretech.id)
+
+Facebook : [Cretech.id](https://www.facebook.com/profile.php?id=61556441940671)
+
 Linkedin : [Cretech-id](https://www.linkedin.com/company/cretech-id)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/company/cretech-id
 [product-screenshot]: images/screenshot.png
 [PHP]: https://img.shields.io/badge/php-7a86b8?style=for-the-badge&logoColor=white
